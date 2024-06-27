@@ -12,4 +12,8 @@
 <!-- 
 Paste this in  android manifest.xml
     <uses-permission android:name="android.permission.INTERNET" />
+
+    and this
+
+     android:theme="@style/Theme.AppCompat.Light"
  -->
